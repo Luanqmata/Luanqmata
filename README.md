@@ -68,14 +68,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
 </p>
-
-
-esses dois aqui nao ficaram legal tao cortando 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=H4ck1ng+1s+my+Language;Red+Team+Mindset;Code,+Break,+Repeat" alt="typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=Welcome+to+the+Lab;Code,+Exploit,+Conquer;Red+Team+Ready!" alt="Typing SVG Hacker"/>
-</p>
