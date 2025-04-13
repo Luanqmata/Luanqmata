@@ -9,10 +9,10 @@
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
+<h3 align="center">💻 <strong>Sobre:</strong></h3>
 <p align="center">
-  💻 <b>Sobre este repositório:</b><br>
-  🧠 <b>Tecnologia, Segurança, Programação e Automação</b> reunidos num só lugar.<br>
-  Explore conteúdos que vão de lógica de programação até desafios de segurança ofensiva!
+  <strong>Programação, Segurança, Automação e Desafios Hacker.</strong><br>
+  Lógica, Scripts e Segurança Ofensiva num só lugar.
 </p>
 
 <p align="center">
@@ -21,52 +21,44 @@
 
 <hr>
 
-<p align="center">  
-  🚀 <b>Golang</b><br>
-  🔐 Desafios voltados para o universo <b>Bitcoin</b>:<br>
-  🧨 <i>Brute Force</i> e o <b>Desafio Bitcoin 2015</b>.
-</p>
-
-<hr>
-
-<p align="center">  
-  🗄️ <b>Banco de Dados MySQL</b><br>
-  📦 Consultas, modelagem e manipulação de dados.
-</p>
-
-<hr>
-
-<p align="center">  
-  🐧 <b>Linux</b><br>
-  💻 Domínio de comandos essenciais, automações e instalações de sistemas.
-</p>
-
-<hr>
-
-<p align="center">  
-  🛡️ <b>Red Team / Segurança Ofensiva</b><br>
-  🔍 Enumeração <br>
-  🕵️‍♂️ Análise de serviços <br>
-  💣 Busca por exploits <br>
-  📟 Shell Access <br>
-  🐧 Pentest Linux.
-</p>
-
-<hr>
-
-<p align="center">  
-  ⚙️ <b>Shell Script & PowerShell</b><br>
-  🗲 Automação de rotinas:<br>
-  - Teste de conectividade (Ping).<br>
-  - Consultas DNS.<br>
-  - Informações de hardware e rede.
-</p>
-
-<hr>
-
+<h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
-  🧰 <b>Minhas ferramentas favoritas:</b><br>
-  🔴 Nmap &emsp; ⚡ Metasploit &emsp; 💀 JohnTheRipper &emsp; 🐙 GitHub &emsp; 🐧 Kali Linux &emsp; 🚩 Burp Suite.
+  🔐 Desafios com Bitcoin: <i>Brute Force</i> & <strong>Bitcoin 2015</strong>.
+</p>
+
+<hr>
+
+<h3 align="center">🗄️ <strong>MySQL</strong></h3>
+<p align="center">
+  📦 Consultas, Modelagem & Dados.
+</p>
+
+<hr>
+
+<h3 align="center">🐧 <strong>Linux</strong></h3>
+<p align="center">
+  💻 Comandos, Automação e Instalação.
+</p>
+
+<hr>
+
+<h3 align="center">🛡️ <strong>Red Team</strong></h3>
+<p align="center">
+  🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🐧 Pentest.
+</p>
+
+<hr>
+
+<h3 align="center">⚙️ <strong>Shell Script & PowerShell</strong></h3>
+<p align="center">
+  🗲 Testes | DNS | Hardware & Rede.
+</p>
+
+<hr>
+
+<h3 align="center">🧰 <strong>Ferramentas:</strong></h3>
+<p align="center">
+  🔴 Nmap ⚡ Metasploit 💀 JohnTheRipper 🐙 GitHub 🐧 Kali 🚩 Burp Suite.
 </p>
 
 <p align="center">
