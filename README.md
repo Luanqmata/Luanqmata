@@ -1,50 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Seja%20Bem-Vindo!%20👋&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff" alt="banner hacker red"/>
 </p>
 
 ---
 
-## 💻 Sobre este repositório:
+# 💻 Sobre este repositório:
 
-Aqui você vai encontrar conteúdos diversos que abrangem diferentes áreas da tecnologia e programação, incluindo:
+🧠 **Tecnologia, Segurança, Programação e Automação** reunidos num só lugar.  
+Explore conteúdos que vão de lógica de programação até desafios de segurança ofensiva!  
 
 ---
 
+## 🕸️ Conteúdos:
+
 ### 💡 Lógica de Programação  
-> Base sólida para iniciantes com foco em **JavaScript**.
+🧬 Base para iniciantes focada em **JavaScript** e conceitos fundamentais.
 
 ---
 
 ### 🚀 Golang  
-> Projetos voltados para **Bitcoin**:  
-> 💎 *Desafios Brute Force* e o famoso **Desafio Bitcoin 2015**.
+🔐 Desafios voltados para o universo **Bitcoin**:  
+🧨 *Brute Force* e o **Desafio Bitcoin 2015**.
 
 ---
 
 ### 🗄️ Banco de Dados MySQL  
-> Comandos SQL, modelagem de dados e consultas práticas.
+📦 Consultas, modelagem e manipulação de dados.
 
 ---
 
 ### 🐧 Linux  
-> Comandos essenciais, automações e **instalação de sistemas operacionais**.
+💻 Domínio de comandos essenciais, automações e instalações de sistemas.
 
 ---
 
-### 🛡️ Segurança Ofensiva - Red Team  
-> Enumeração, análise de serviços, exploração de vulnerabilidades,  
-> técnicas de **shell access** e **segurança ofensiva Linux**.
+### 🛡️ Red Team / Segurança Ofensiva  
+🔍 Enumeração  
+🕵️‍♂️ Análise de serviços  
+💣 Busca por exploits  
+📟 Shell Access  
+🐧 Pentest Linux.
 
 ---
 
 ### ⚙️ Shell Script & PowerShell  
-> Scripts para:
-> - Pings de rede.
-> - Consultas DNS.
-> - Informações sobre hardware e rede.
+🗲 Automação de rotinas:  
+- Teste de conectividade (Ping).  
+- Consultas DNS.  
+- Informações de hardware e rede.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,100:00c9ff&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
 </p>
