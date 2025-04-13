@@ -1,4 +1,4 @@
-<p align="center">
+se<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff" alt="banner hacker red"/>
 </p>
 
@@ -12,7 +12,7 @@
 <h3 align="center">💻 <strong>Sobre:</strong></h3>
 <p align="center">
   <strong>Programação, Segurança, Automação e Desafios Hacker.</strong><br>
-  Lógica, Scripts e Segurança Ofensiva num só lugar.
+  Lógica, Scripts Pentest Brute force BitCoin e Segurança Ofensiva.
 </p>
 
 <p align="center">
