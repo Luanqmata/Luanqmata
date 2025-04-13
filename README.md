@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=H4ck1ng+1s+my+Language;Red+Team+Mindset;Code,+Break,+Repeat" alt="typing animation" />
+  <img src="https://i.imgur.com/L6mL5Ko.png" width="600" alt="Red Team Banner Terminal" />
 </p>
 
 <hr>
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=Welcome+to+the+Lab;Code,+Exploit,+Conquer;Red+Team+Ready!" alt="Typing SVG Hacker"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Red%20Team%20|%20Bitcoin%20Ops&colorA=ff0000&colorB=000000" alt="Red Team Glitch Banner"/>
 </p>
 
 <p align="center">
