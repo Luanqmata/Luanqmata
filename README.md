@@ -23,7 +23,7 @@
 
 <h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
-  🔐 Desafios com Bitcoin: <i>Brute Force</i> & <strong>Bitcoin 2015</strong>.
+  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Bitcoin 2015</strong>.
 </p>
 
 <hr>
