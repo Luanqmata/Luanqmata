@@ -3,9 +3,20 @@
 </p>
 
 <p align="center">
+  <a href="https://www.gnu.org/"><img src="https://img.shields.io/badge/Linux-Terminal-ff0000?style=for-the-badge&logo=gnu&logoColor=white"/></a>
+  <a href="https://golang.org/"><img src="https://img.shields.io/badge/Golang-RedTeam-ff0000?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-DataBase-ff0000?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+</p>
+
+<p align="center">
   💻 <b>Sobre este repositório:</b><br>
   🧠 <b>Tecnologia, Segurança, Programação e Automação</b> reunidos num só lugar.<br>
   Explore conteúdos que vão de lógica de programação até desafios de segurança ofensiva!
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=H4ck1ng+1s+my+Language;Red+Team+Mindset;Code,+Break,+Repeat" alt="typing animation" />
 </p>
 
 <hr>
@@ -49,6 +60,17 @@
   - Teste de conectividade (Ping).<br>
   - Consultas DNS.<br>
   - Informações de hardware e rede.
+</p>
+
+<hr>
+
+<p align="center">
+  🧰 <b>Minhas ferramentas favoritas:</b><br>
+  🔴 Nmap &emsp; ⚡ Metasploit &emsp; 💀 JohnTheRipper &emsp; 🐙 GitHub &emsp; 🐧 Kali Linux &emsp; 🚩 Burp Suite.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="hacker animation"/>
 </p>
 
 <p align="center">
