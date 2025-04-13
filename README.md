@@ -1,20 +1,50 @@
-## Seja bem Vindo! 👋
-------------------
-💻 Sobre este repositório:
-Aqui você encontrará conteúdos diversos que abrangem diferentes áreas da tecnologia e programação, incluindo:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Seja%20Bem-Vindo!%20👋&fontSize=40&fontColor=ffffff" alt="banner" />
+</p>
 
-💡 Lógica de Programação — Base sólida para iniciantes java script.
+---
 
-🚀 Golang — Projetos Bitcoin desafios de brute force e desafio bitcoin 2015.
+## 💻 Sobre este repositório:
 
-🎨 HTML & CSS — Estruturação e estilização de páginas web ( não é o meu forte ).
+Aqui você vai encontrar conteúdos diversos que abrangem diferentes áreas da tecnologia e programação, incluindo:
 
-🐍 Python — Atividades, automação e exemplos didáticos.
+---
 
-🗄️ Banco de Dados MySQL — Comandos SQL, modelagem e consultas.
+### 💡 Lógica de Programação  
+> Base sólida para iniciantes com foco em **JavaScript**.
 
-🐧 Linux — Comandos essenciais, automações e Instalação de SO.
+---
 
-🛡️ Segurança Ofensiva (Red Team) — Enumeração, Analise de serviços, procura de exploits, subir shell, Linux .
+### 🚀 Golang  
+> Projetos voltados para **Bitcoin**:  
+> 💎 *Desafios Brute Force* e o famoso **Desafio Bitcoin 2015**.
 
-⚙️ Shell Script & PowerShell — Scripts de Pings na rede, utilitários, Consultas DNS, informações do computador.
+---
+
+### 🗄️ Banco de Dados MySQL  
+> Comandos SQL, modelagem de dados e consultas práticas.
+
+---
+
+### 🐧 Linux  
+> Comandos essenciais, automações e **instalação de sistemas operacionais**.
+
+---
+
+### 🛡️ Segurança Ofensiva - Red Team  
+> Enumeração, análise de serviços, exploração de vulnerabilidades,  
+> técnicas de **shell access** e **segurança ofensiva Linux**.
+
+---
+
+### ⚙️ Shell Script & PowerShell  
+> Scripts para:
+> - Pings de rede.
+> - Consultas DNS.
+> - Informações sobre hardware e rede.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,100:00c9ff&height=150&section=footer"/>
+</p>
