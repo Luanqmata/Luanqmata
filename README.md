@@ -37,7 +37,7 @@
 
 <h3 align="center">🐧 <strong>Linux</strong></h3>
 <p align="center">
-  💻 Comandos, Automação e Instalação.
+  💻 Comandos, Automação e Instalação SO.
 </p>
 
 <hr>
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="hacker animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=Welcome+to+the+Lab;Code,+Exploit,+Conquer;Red+Team+Ready!" alt="Typing SVG Hacker"/>
 </p>
 
 <p align="center">
