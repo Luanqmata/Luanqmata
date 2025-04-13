@@ -58,7 +58,7 @@ se<p align="center">
 
 <h3 align="center">🧰 <strong>Ferramentas:</strong></h3>
 <p align="center">
-  🔴 Nmap ⚡ Metasploit 💀 JohnTheRipper 🐙 GitHub 🐧 Kali 🚩 Burp Suite.
+  🔴 Nmap ⚡ Msf6 💀 JohnTheRipper 🐙 Explodir DB 🐧 Kali 🚩 Burp Suite.
 </p>
 
 <p align="center">
