@@ -19,6 +19,8 @@ se<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=H4ck1ng+1s+my+Language;Red+Team+Mindset;Code,+Break,+Repeat" alt="typing animation" />
 </p>
 
+
+
 <h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
   🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong> Desafio Bitcoin 2015</strong>.
