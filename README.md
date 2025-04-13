@@ -11,17 +11,6 @@
 <hr>
 
 <p align="center">  
-  🕸️ <b>Conteúdos:</b>  
-</p>
-
-<p align="center">  
-  💡 <b>Lógica de Programação</b><br>
-  🧬 Base para iniciantes focada em <b>JavaScript</b> e conceitos fundamentais.
-</p>
-
-<hr>
-
-<p align="center">  
   🚀 <b>Golang</b><br>
   🔐 Desafios voltados para o universo <b>Bitcoin</b>:<br>
   🧨 <i>Brute Force</i> e o <b>Desafio Bitcoin 2015</b>.
