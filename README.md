@@ -22,7 +22,7 @@
   <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
     <img src="https://img.shields.io/badge/Desafio%20BTC%20163-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
     <img src="https://img.shields.io/badge/Desafio%20BTC%202015-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
   </a>
@@ -66,7 +66,7 @@
   <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
     <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-GitHub-ff0000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="R-Dia-S-Win-v2"/>
   </a>
-  <br> <br>
+  <br>
    <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
     <img src="https://img.shields.io/badge/Visão%20Apache-GitHub-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
