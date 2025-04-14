@@ -36,6 +36,11 @@
   <a href="https://github.com/Luanqmata/-Red_Team-">
     <img src="https://img.shields.io/badge/Certificado-Red%20Scam%20Academy-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
   </a>
+  <br>
+  
+  <a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/b2">
+    <img src="https://img.shields.io/badge/Prova%20SB2%20A-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
+  </a>
 </p>
 <hr>
 
