@@ -18,7 +18,7 @@
 
 <h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
-  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin 2015</strong>.<br><br>
+  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
   <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
     <img src="https://img.shields.io/badge/Desafio%20BTC%20163-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
   </a>
