@@ -66,7 +66,7 @@
   <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
     <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-GitHub-ff0000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="R-Dia-S-Win-v2"/>
   </a>
-  <br>
+  <br> <br>
    <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
     <img src="https://img.shields.io/badge/Visão%20Apache-GitHub-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
