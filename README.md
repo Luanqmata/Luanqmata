@@ -19,15 +19,17 @@
 <h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
   🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin 2015</strong>.<br><br>
-  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-    <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-      <img src="https://img.shields.io/badge/Desafio%20BTC%20163-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
-    </a>
-    <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
-      <img src="https://img.shields.io/badge/Desafio%20BTC%202015-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
-    </a>
-  </div>
+  <strong>Desafio BTC 163:</strong><br>
+  <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
+  </a>
+  <br><br>
+  <strong>Desafio BTC 2015:</strong><br>
+  <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%202015-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
+  </a>
 </p>
+
 
 <hr>
 
