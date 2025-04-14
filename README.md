@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://example.com/hypnosis.gif" alt="Gif de Hipnose" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff" alt="banner hacker red"/>
 </p>
 
@@ -71,5 +75,4 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=
