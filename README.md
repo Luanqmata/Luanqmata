@@ -1,4 +1,4 @@
-se<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff" alt="banner hacker red"/>
 </p>
 
@@ -63,8 +63,6 @@ se<p align="center">
 <p align="center">
   🗲 Testes | DNS | Hardware & Rede.
 </p>
-
-<hr>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
