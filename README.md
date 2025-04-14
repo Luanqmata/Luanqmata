@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer&text=Detecte%20ou%20seja%20detectado!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff"/>
 </p>
