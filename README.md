@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gnu.org/"><img src="https://img.shields.io/badge/Linux-Terminal-ff0000?style=for-the-badge&logo=gnu&logoColor=white"/></a>
-  <a href="https://golang.org/"><img src="https://img.shields.io/badge/Golang-RedTeam-ff0000?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-DataBase-ff0000?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://www.gnu.org/"><img src="https://img.shields.io/badge/Linux-Terminal-ff0000?style=for-the-badge&logo=gnu&logoColor=white" /></a>
+  <a href="https://golang.org/"><img src="https://img.shields.io/badge/Golang-RedTeam-ff0000?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-DataBase-ff0000?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
-<h3 align="center">💻 <strong>Sobre:</strong></h3>
+<h3 align="center" style="margin-top: 20px;">💻 <strong>Sobre:</strong></h3>
 <p align="center">
   <strong>Programação, Segurança, Automação e Desafios Hacker.</strong><br>
   Lógica, Scripts Pentest Brute force BitCoin e Segurança Ofensiva.
@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/Desafio%20BTC%202015-GitHub-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
   </a>
 </p>
-
 
 <hr>
 
@@ -71,6 +70,7 @@
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Script-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
 </p>
