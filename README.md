@@ -53,7 +53,7 @@
 <p align="center">
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
   <a href="https://github.com/Luanqmata/-Red_Team-">
-    <img src="https://img.shields.io/badge/CERTIFICADO-GitHub-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Certificado Red Team"/>
+    <img src="https://img.shields.io/badge/CERTIFICADO-Red%20Scam%20Academy-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Certificado Red Team"/>
   </a>
 </p>
 
