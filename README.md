@@ -66,15 +66,6 @@ se<p align="center">
 
 <hr>
 
-<h3 align="center">🧰 <strong>Ferramentas:</strong></h3>
-<p align="center">
-  🔴 Nmap ⚡ Msf6 💀 JohnTheRipper 🐙 Explodir DB 🐧 Kali 🚩 Burp Suite.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=Welcome+to+the+Lab;Code,+Exploit,+Conquer;Red+Team+Ready!" alt="Typing SVG Hacker"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
 </p>
