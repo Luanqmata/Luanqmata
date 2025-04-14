@@ -26,10 +26,11 @@ se<p align="center">
   <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
     <img src="https://img.shields.io/badge/Acessar%20Desafio-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Desafio Inverstidor internacional"/>
   </a>
-   <br><br><strong> Desafio 2k15: </strong> <br>
+   <br><br><strong> Desafio 2k15: </strong> <br><br>
     <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
       <img src="https://img.shields.io/badge/Acessar%20Desafio-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Desafio Bitcoin 2015"/>
     </a>
+    <br>
 </p>
 
 <hr>
