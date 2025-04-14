@@ -64,14 +64,13 @@
 <p align="center">
   🗲 Testes | DNS | Hardware & Rede.<br><br>
   <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
-    <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-GitHub-ff0000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="R-Dia-S-Win-v2"/>
+    <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-ff0000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="R-Dia-S-Win-v2"/>
   </a>
   <br>
    <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
-    <img src="https://img.shields.io/badge/Visão%20Apache-GitHub-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
+    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Script-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
 </p>
