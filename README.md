@@ -43,6 +43,7 @@
 <h3 align="center">🐧 <strong>Linux</strong></h3>
 <p align="center">
   💻 Comandos, Automação e Instalação de SO.<br><br>
+   <strong>Nmap</strong> | ⚡ <strong>MF6</strong> | 💀 <strong>JohnTheRipper</strong> | 🐙 <strong>Exploit DB</strong> | 🚩 <strong>Burp Suite</strong> | 🔌 <strong>Netcat (NC)</strong><br>
   <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
     <img src="https://img.shields.io/badge/Linux%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
   </a>
