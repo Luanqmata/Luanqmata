@@ -54,12 +54,6 @@
   <a href="https://github.com/Luanqmata/-Red_Team-">
     <img src="https://img.shields.io/badge/Exploit-Red%20Scam%20Academy-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
   </a>
-  <a href="https://github.com/Luanqmata/OSINT_Toolbox">
-    <img src="https://img.shields.io/badge/OSINT-Red%20Scam%20Academy-ff0000?style=for-the-badge&logo=bug-bounty&logoColor=white" alt="OSINT Tools"/>
-  </a>
-  <a href="https://tryhackme.com/rooms/redteam">
-    <img src="https://img.shields.io/badge/Red%20Team-CTF-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Red Team"/>
-  </a>
 </p>
 
 <hr>
