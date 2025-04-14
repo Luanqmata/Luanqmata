@@ -23,7 +23,7 @@ se<p align="center">
 <p align="center">
   🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin 2015</strong>.<br><br>
   <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-    <img src="https://img.shields.io/badge/Acessar%20Desafio-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Desafio 163"/>
+    <img src="https://img.shields.io/badge/Acessar%20Desafio-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Desafio Inverstidor internacional"/>
   </a>
 </p>
 
