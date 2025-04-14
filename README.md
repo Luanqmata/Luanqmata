@@ -30,14 +30,13 @@
 </p>
 <hr>
 
-<h3 align="center">🗄️ <strong>MySQL</strong></h3>
+<h3 align="center">🛡️ <strong>Red Team</strong></h3>
 <p align="center">
-  📦 Consultas, Modelagem - Banco de Dados.<br><br>
-  <a href="https://github.com/Luanqmata/Banco-Dados">
-    <img src="https://img.shields.io/badge/Banco%20de%20Dados-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
+  🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
+  <a href="https://github.com/Luanqmata/-Red_Team-">
+    <img src="https://img.shields.io/badge/Certificado-Red%20Scam%20Academy-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
   </a>
 </p>
-
 <hr>
 
 <h3 align="center">🐧 <strong>Linux</strong></h3>
@@ -48,16 +47,15 @@
     <img src="https://img.shields.io/badge/Linux%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
   </a>
 </p>
-
 <hr>
-<h3 align="center">🛡️ <strong>Red Team</strong></h3>
+
+<h3 align="center">🗄️ <strong>MySQL</strong></h3>
 <p align="center">
-  🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
-  <a href="https://github.com/Luanqmata/-Red_Team-">
-    <img src="https://img.shields.io/badge/Certificado-Red%20Scam%20Academy-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
+  📦 Consultas, Modelagem - Banco de Dados.<br><br>
+  <a href="https://github.com/Luanqmata/Banco-Dados">
+    <img src="https://img.shields.io/badge/Banco%20de%20Dados-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
   </a>
 </p>
-
 <hr>
 
 <h3 align="center">⚙️ <strong>Shell Script & PowerShell</strong></h3>
