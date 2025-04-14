@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=160&section=footer&text=Detecte%20ou%20seja%20detectado!%20%F0%9F%91%8C&fontSize=30&fontColor=000000" alt="banner rodapé"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=160&section=footer&text=Detecte%20ou%20seja%20detectado!%F0%9F%94%8D&fontSize=30&fontColor=000000" alt="banner rodapé"/>
 </p>
