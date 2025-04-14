@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff" alt="banner hacker red"/>
 </p>
@@ -12,7 +13,7 @@
 <h3 align="center" style="margin-top: 20px;">💻 <strong>Sobre:</strong></h3>
 <p align="center">
   <strong>Programação, Segurança, Automação e Desafios Hacker.</strong><br>
-  Lógica, Scripts Pentest Brute force BitCoin e Segurança Ofensiva.
+  Lógica, Scripts Pentest, Brute Force Bitcoin e Segurança Ofensiva.
 </p>
 <hr>
 
@@ -31,7 +32,7 @@
 
 <h3 align="center">🗄️ <strong>MySQL</strong></h3>
 <p align="center">
-  📦 Consultas, Modelagem - Banco Dados.<br><br>
+  📦 Consultas, Modelagem - Banco de Dados.<br><br>
   <a href="https://github.com/Luanqmata/Banco-Dados">
     <img src="https://img.shields.io/badge/Banco%20de%20Dados-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
   </a>
@@ -41,7 +42,7 @@
 
 <h3 align="center">🐧 <strong>Linux</strong></h3>
 <p align="center">
-  💻 Comandos, Automação e Instalação SO.<br><br>
+  💻 Comandos, Automação e Instalação de SO.<br><br>
   <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
     <img src="https://img.shields.io/badge/Linux%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
   </a>
@@ -65,7 +66,7 @@
     <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-ff0000?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="R-Dia-S-Win-v2"/>
   </a>
   <br>
-   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
+  <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Script-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 </p>
