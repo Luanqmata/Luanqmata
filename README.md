@@ -14,7 +14,7 @@ se<p align="center">
   <strong>Programação, Segurança, Automação e Desafios Hacker.</strong><br>
   Lógica, Scripts Pentest Brute force BitCoin e Segurança Ofensiva.
 </p>
-
+<hr>
 <h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
   🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin 2015</strong>.<br><br>
