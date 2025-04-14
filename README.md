@@ -72,8 +72,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
-  <br>
-  <span style="font-size: 18px; font-weight: bold;">"Detecte ou seja detectado."</span>
-  <br>
-  <span style="font-size: 14px; font-style: italic;">– Equipe de Segurança</span>
 </p>
