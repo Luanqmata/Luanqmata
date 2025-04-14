@@ -47,7 +47,10 @@ se<p align="center">
 
 <h3 align="center">🐧 <strong>Linux</strong></h3>
 <p align="center">
-  💻 Comandos, Automação e Instalação SO.
+  💻 Comandos, Automação e Instalação SO.<br><br>
+  <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
+    <img src="https://img.shields.io/badge/Linux%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
+  </a>
 </p>
 
 <hr>
