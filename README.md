@@ -42,7 +42,18 @@
     <img src="https://img.shields.io/badge/Desafio%20BTC%202015-Brute%20Force-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
   </a>
 </p>
+
 <hr>
+<h3 align="center">🐧 <strong>Linux</strong></h3>
+<p align="center">
+  💻 Comandos, Automação e Instalação de SO.<br><br>
+   <strong>Nmap</strong> | ⚡ <strong>MF6</strong> | 💀 <strong>JohnTheRipper</strong> | 🐙 <strong>Exploit DB</strong> | 🚩 <strong>Burp Suite</strong> | 🔌 <strong>Netcat</strong><br><br>
+  <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
+    <img src="https://img.shields.io/badge/Linux%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
+  </a>
+</p>
+<hr>
+
 
 <h3 align="center">⚙️ <strong>Shell Script & PowerShell</strong></h3>
 <p align="center">
@@ -53,16 +64,6 @@
   <br>
   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Script-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
-  </a>
-</p>
-<hr>
-
-<h3 align="center">🐧 <strong>Linux</strong></h3>
-<p align="center">
-  💻 Comandos, Automação e Instalação de SO.<br><br>
-   <strong>Nmap</strong> | ⚡ <strong>MF6</strong> | 💀 <strong>JohnTheRipper</strong> | 🐙 <strong>Exploit DB</strong> | 🚩 <strong>Burp Suite</strong> | 🔌 <strong>Netcat</strong><br><br>
-  <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
-    <img src="https://img.shields.io/badge/Linux%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
   </a>
 </p>
 <hr>
