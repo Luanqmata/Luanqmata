@@ -57,7 +57,7 @@
 </p>
 
 <hr>
-<h3 align="center">🐧 <strong>Linux & windows 🪟 </strong> </h3>
+<h3 align="center">🐧 <strong>Linux & windows 🧊 </strong> </h3>
 <p align="center">
   💻 Comandos, Automação e Instalação de SO.<br><br>
    <strong>Nmap</strong> | ⚡ <strong>MF6</strong> | 💀 <strong>JohnTheRipper</strong> | 🐙 <strong>Exploit DB</strong> | 🚩 <strong>Burp Suite</strong> | 🔌 <strong>Netcat</strong><br><br>
