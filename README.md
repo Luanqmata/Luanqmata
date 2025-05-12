@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gnu.org/"><img src="https://img.shields.io/badge/Linux-Terminal-ff0000?style=for-the-badge&logo=gnu&logoColor=white" /></a>
+  <a href="https://www.gnu.org/"><img src="https://img.shields.io/badge/Linux-Terminal-ff0000?style=for-the-badge&logo=linux&logoColor=white" /></a>
   <a href="https://golang.org/"><img src="https://img.shields.io/badge/Golang-Mining-ff0000?style=for-the-badge&logo=go&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-DataBase-ff0000?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
