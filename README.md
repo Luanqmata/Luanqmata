@@ -80,7 +80,7 @@
   </a>
   <br>
   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
-    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Script-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
+    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 </p>
 <hr>
