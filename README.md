@@ -64,8 +64,9 @@
   <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
     <img src="https://img.shields.io/badge/Linux%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
   </a>
+  <br>
   <a href="https://github.com/Luanqmata/-Windows-Is-Life-">
-    <img src="https://img.shields.io/badge/🪟%20Windows%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=powershell&logoColor=white" alt="win Is Life"/>
+    <img src="https://img.shields.io/badge/Windows%20Is%20Life-GitHub-ff0000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="win Is Life"/>
   </a>
 </p>
 <hr>
