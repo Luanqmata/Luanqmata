@@ -15,9 +15,9 @@
   <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Segurança Ofensiva.</strong>
 </p>
-<p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanqmata&layout=compact&langs_count=8&theme=tokyonight)
-</p>
+
 <!-- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight)
 
