@@ -74,7 +74,7 @@
 
 <h3 align="center">⚙️ <strong>Shell Script & PowerShell</strong></h3>
 <p align="center">
-  🗲 Testes | DNS | Hardware & Rede.<br><br>
+  🗲 Testes | DNS | Analise de logs & Rede.<br><br>
   <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
     <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-ff0000?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/>
   </a>
