@@ -12,8 +12,8 @@
 
 <h3 align="center" style="margin-top: 20px;">💻 <strong>Sobre:</strong></h3>
 <p align="center">
-  <strong>Programação, Segurança, Automação e Desafios Hacker.</strong><br>
-  Lógica, Scripts Pentest, Brute Force Bitcoin e Segurança Ofensiva.
+  <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
+  <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Segurança Ofensiva.</strong>
 </p>
 <hr>
 
