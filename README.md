@@ -16,13 +16,6 @@
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Segurança Ofensiva.</strong>
 </p>
 
-<!-- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight)
--->
-
 <hr>
 <h3 align="center">🛡️ <strong>Red Team</strong></h3>
 <p align="center">
@@ -109,5 +102,12 @@
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanqmata&layout=compact&langs_count=8&theme=tokyonight)
+
+<!-- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight)
+-->
 
 </div>
