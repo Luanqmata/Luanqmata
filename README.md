@@ -89,7 +89,7 @@
 <p align="center">
   📦 Consultas, Modelagem - Banco de Dados.<br><br>
   <a href="https://github.com/Luanqmata/Banco-Dados">
-    <img src="https://img.shields.io/badge/Banco%20de%20Dados-GitHub-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
+    <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
   </a>
 </p>
 
