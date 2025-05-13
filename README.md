@@ -20,7 +20,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight)
 
+<!-- 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight)
+-->
 
 <hr>
 <h3 align="center">🛡️ <strong>Red Team</strong></h3>
