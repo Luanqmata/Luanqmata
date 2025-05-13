@@ -62,11 +62,11 @@
   💻 Comandos, Automação e Instalação de SO.<br><br>
    <strong>Nmap</strong> | ⚡ <strong>MF6</strong> | 💀 <strong>JohnTheRipper</strong> | 🐙 <strong>Exploit DB</strong> | 🚩 <strong>Burp Suite</strong> | 🔌 <strong>Netcat</strong><br><br>
   <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
-    <img src="https://img.shields.io/badge/Linux%20Is%20Life-Repo Shell-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
+    <img src="https://img.shields.io/badge/Linux%20Is%20Life-Shell-ff0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
   </a>
   <br>
   <a href="https://github.com/Luanqmata/-Windows-Is-Life-">
-    <img src="https://img.shields.io/badge/Windows%20Is%20Life-Repo Ps1-ff0000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="win Is Life"/>
+    <img src="https://img.shields.io/badge/Windows%20Is%20Life-Ps1-ff0000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="win Is Life"/>
   </a>
 </p>
 <hr>
