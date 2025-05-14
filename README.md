@@ -17,7 +17,7 @@
 </p>
 
 <hr>
-<h3 align="center">🛡️ <strong>Red Team</strong></h3>
+<h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
   <a href="https://github.com/Luanqmata/-Red_Team-">
