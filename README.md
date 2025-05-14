@@ -48,11 +48,11 @@
 <p align="center">
   🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
   <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-Brute%20Force-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
+    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
   </a>
   <br>
   <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%202015-Brute%20Force-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
+    <img src="https://img.shields.io/badge/Desafio%20BTC%202015-CPU%20Miner-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
   </a>
 </p>
 
