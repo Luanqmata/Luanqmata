@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Desafio%20BTC%202015-CPU%20Miner-ff0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
   </a>
 </p>
-
+<hr>
 <h3 align="center">⚙️ <strong>Programas em Shell Script & PowerShell</strong></h3>
 <p align="center">
   🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-ff0000?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 </p>
-<hr>
+
 <hr>
 
 <h3 align="center">🐧 <strong>Linux & windows 🧊 </strong> </h3>
