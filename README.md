@@ -82,7 +82,7 @@
 </p>
 <hr>
 
-<h3 align="center">🗄️ <strong>MySQL</strong></h3>
+<h3 align="center">🗄️ <strong>PostgreSQL</strong></h3>
 <p align="center">
   📦 Consultas, Modelagem - Banco de Dados.<br><br>
   <a href="https://github.com/Luanqmata/Banco-Dados">
