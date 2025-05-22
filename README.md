@@ -93,7 +93,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=160&section=footer&text=Se%20você%20não%20está%20errando,%20você%20não%20está%20tentando%20o%20suficiente%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=160&section=footer&text=Aprenda%20para%20evoluir,%20e%20hackeie%20para%20proteger.%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
 </p>
 
 <!-- 
