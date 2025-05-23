@@ -34,7 +34,7 @@
   </a>
 
    <br>
-    <a href="https://github.com/Luanqmata/-Red_Team-/blob/main/Anotações/anot_metasploitable2.md">
+    <a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/MetaSploiTable2">
     <img src="https://img.shields.io/badge/METASPLOITABLE%202-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
   </a>
 </p>
