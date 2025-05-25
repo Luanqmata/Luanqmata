@@ -13,7 +13,7 @@
 <h3 align="center" style="margin-top: 20px;">💻 <strong>Sobre:</strong></h3>
 <p align="center">
   <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
-  <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Segurança Ofensiva.</strong>
+  <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdo da faculdade.</strong>
 </p>
 
 <hr>
