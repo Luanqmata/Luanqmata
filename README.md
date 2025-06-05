@@ -15,6 +15,14 @@
   <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
+<hr>
+<h3 align="center">🗄️ <strong>PostgreSQL</strong></h3>
+<p align="center">
+  📦 Consultas, Modelagem - Banco de Dados.<br><br>
+  <a href="https://github.com/Luanqmata/Banco-Dados">
+    <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
+  </a>
+</p>
 
 <hr>
 <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
@@ -79,15 +87,8 @@
     <img src="https://img.shields.io/badge/Windows%20Is%20Life-Ps1-ff0000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="win Is Life"/>
   </a>
 </p>
-<hr>
 
-<h3 align="center">🗄️ <strong>PostgreSQL</strong></h3>
-<p align="center">
-  📦 Consultas, Modelagem - Banco de Dados.<br><br>
-  <a href="https://github.com/Luanqmata/Banco-Dados">
-    <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-ff0000?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
-  </a>
-</p>
+
 
 
 
