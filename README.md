@@ -33,7 +33,7 @@
   
   <br>
   <a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/b1">
-    <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&color=000000&logoColor=white" alt="Red Team Exploit b1"/>
+    <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
   </a>
 
   <a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/b2">
