@@ -33,18 +33,17 @@
   
   <br>
   <a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/b1">
-    <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&logoColor=black&labelColor=39ff14&color=39ff14" alt="Red Team Exploit b1"/>
-</a>
+    <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&fontColor=000000&logoColor=white" alt="Red Team Exploit b1"/>
+  </a>
 
-<a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/b2">
-    <img src="https://img.shields.io/badge/Prova%20B2-39ff14?style=for-the-badge&logo=tryhackme&logoColor=black&labelColor=39ff14&color=39ff14" alt="Red Team Exploit b2"/>
-</a>
+  <a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/b2">
+    <img src="https://img.shields.io/badge/Prova%20B2-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b2"/>
+  </a>
 
-<br>
-
-<a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/MetaSploiTable2">
-    <img src="https://img.shields.io/badge/METASPLOITABLE%202-39ff14?style=for-the-badge&logo=tryhackme&logoColor=black&labelColor=39ff14&color=39ff14" alt="Red Team Exploit b1"/>
-</a>
+   <br>
+    <a href="https://github.com/Luanqmata/-Red_Team-/tree/main/Anotações/MetaSploiTable2">
+    <img src="https://img.shields.io/badge/METASPLOITABLE%202-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
+  </a>
 
 </p>
 
@@ -92,6 +91,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=160&section=footer&text=Aprenda%20para%20evoluir,%20e%20hackeie%20para%20proteger.%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
 </p>
+
 <!-- 
 
 
