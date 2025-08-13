@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff" alt="banner hacker green"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=000000" alt="banner hacker green"/>
 </p>
 
 <p align="center">
