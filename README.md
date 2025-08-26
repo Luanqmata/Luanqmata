@@ -15,7 +15,7 @@
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
 <hr>
-<h3 align="center">🗄️ <strong>IESGO</strong></h3>
+<h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
 <p align="center">
   📦 Pentest - Banco de Dados. 💣 <br><br>
 
