@@ -29,7 +29,7 @@
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
 
   <a href="https://github.com/Luanqmata/IESGO-Security-6Sem">
-    <img src="https://img.shields.io/badge/P3n3tr4t1UM_Team-IESGO%206°%20Sem-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Penetratium team"/>
+    <img src="https://img.shields.io/badge/businesscorp.com-IESGO%206°%20Sem-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Penetratium team"/>
   </a>
 
   <br>  
