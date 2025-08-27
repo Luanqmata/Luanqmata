@@ -17,7 +17,7 @@
 <hr>
 <h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
 <p align="center">
-  📦 Pentest - Banco de Dados. 💣 <br><br>
+  📦 - Banco de Dados - Segurança Ofensiva 💣 <br><br>
 
   <a href="https://github.com/Luanqmata/Banco-Dados">
     <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
