@@ -67,19 +67,6 @@
 </p>
 
 <hr>
-<h3 align="center">⚙️ <strong>Programas em Shell Script & PowerShell</strong></h3>
-<p align="center">
-  🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
-  <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
-    <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/>
-  </a>
-  <br>
-  <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
-    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
-  </a>
-</p>
-
-<hr>
 <h3 align="center">🐧 <strong>Linux & windows 🧊 </strong> </h3>
 <p align="center">
   💻 Comandos, Automação e Instalação de SO.<br><br>
@@ -90,6 +77,19 @@
   <br>
   <a href="https://github.com/Luanqmata/-Windows-Is-Life-">
     <img src="https://img.shields.io/badge/Windows%20Is%20Life-Ps1-39ff14?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="win Is Life"/>
+  </a>
+</p>
+
+<hr>
+<h3 align="center">⚙️ <strong>Programas em Shell Script & PowerShell</strong></h3>
+<p align="center">
+  🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
+  <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
+    <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/>
+  </a>
+  <br>
+  <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
+    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 </p>
 
