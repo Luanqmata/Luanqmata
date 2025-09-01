@@ -14,6 +14,7 @@
   <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
+<hr>
 <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
@@ -38,7 +39,6 @@
 
 </p>
 
-<hr>
 <hr>
 <h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
