@@ -14,20 +14,6 @@
   <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
-<hr>
-<h3 align="center">🚀 <strong>Golang</strong></h3>
-<p align="center">
-  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
-  <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
-  </a>
-  <br>
-  <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%202015-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
-  </a>
-</p>
-<hr>
-
 <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
@@ -52,6 +38,19 @@
 
 </p>
 
+<hr>
+<hr>
+<h3 align="center">🚀 <strong>Golang</strong></h3>
+<p align="center">
+  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
+  <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
+  </a>
+  <br>
+  <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%202015-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
+  </a>
+</p>
 <hr>
 <h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
 <p align="center">
