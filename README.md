@@ -15,21 +15,32 @@
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
 <hr>
-<h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
+<h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
-  📦 - Banco de Dados - Segurança Ofensiva 💣 <br><br>
-
-  <a href="https://github.com/Luanqmata/Banco-Dados">
-    <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
+  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
+  <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
   </a>
-  <br>  
-
-   <a href="https://github.com/Luanqmata/IESGO-Security-6Sem">
-    <img src="https://img.shields.io/badge/businesscorp-IESGO%206°%20Sem-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Penetratium team"/>
+  <br>
+  <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%202015-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
+  </a>
+</p>
+<hr>
+<h3 align="center">⚙️ <strong>Programas em Shell Script & PowerShell</strong></h3>
+<p align="center">
+  🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
+  <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
+    <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/>
+  </a>
+  <br>
+  <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
+    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 </p>
 
 <hr>
+
 <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
@@ -55,28 +66,17 @@
 </p>
 
 <hr>
+<h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
+<p align="center">
+  📦 - Banco de Dados - Segurança Ofensiva 💣 <br><br>
 
-<h3 align="center">🚀 <strong>Golang</strong></h3>
-<p align="center">
-  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
-  <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
+  <a href="https://github.com/Luanqmata/Banco-Dados">
+    <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
   </a>
-  <br>
-  <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%202015-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
-  </a>
-</p>
-<hr>
-<h3 align="center">⚙️ <strong>Programas em Shell Script & PowerShell</strong></h3>
-<p align="center">
-  🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
-  <a href="https://github.com/Luanqmata/R-Dia-S-Win-v2.">
-    <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/>
-  </a>
-  <br>
-  <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
-    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
+  <br>  
+
+   <a href="https://github.com/Luanqmata/IESGO-Security-6Sem">
+    <img src="https://img.shields.io/badge/businesscorp-IESGO%206°%20Sem-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Penetratium team"/>
   </a>
 </p>
 
