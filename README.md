@@ -82,7 +82,7 @@
 <h3 align="center">⚙️ <strong>Programas em Shell Script & PowerShell</strong></h3>
 <p align="center">
   🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
-  <a href="https://github.com/Luanqmata/-Windows-Is-Life-/blob/main/R-Dia-S-Win-v2.-main">
+  <a href="https://github.com/Luanqmata/-Windows-Is-Life-/tree/main/R-Dia-S-Win-v2">
     <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/>
   </a>
   <br>
