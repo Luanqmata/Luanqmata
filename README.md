@@ -83,7 +83,7 @@
 <p align="center">
   🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
    <a href="https://github.com/Luanqmata/PowersDiNSpector">
-    <img src="https://img.shields.io/badge/PowersDiNSpector-PowerShell-39ff14?style=for-the-badge&logo=search&logoColor=white" alt="PowersDiNSpector"/>
+    <img src="https://img.shields.io/badge/🔍PowersDiNSpector-PowerShell-39ff14?style=for-the-badge&logo=search&logoColor=white" alt="PowersDiNSpector"/>
   </a>
 
   <br>
