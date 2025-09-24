@@ -95,7 +95,9 @@
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact)
+
 </p>
 
 </p>
