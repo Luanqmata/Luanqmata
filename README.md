@@ -8,6 +8,13 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/PostGSQL-DataBase-39ff14?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
+</p>
+
+---
 
 <h3 align="center" style="margin-top: 20px;">💻 <strong>Sobre:</strong></h3>
 <p align="center">
@@ -94,12 +101,6 @@
   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
-</p>
 
 </p>
 
