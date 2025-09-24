@@ -9,19 +9,17 @@
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
-</p>
-
----
 
 <h3 align="center" style="margin-top: 20px;">💻 <strong>Sobre:</strong></h3>
 <p align="center">
   <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
+</p>
+
 <hr>
 <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
