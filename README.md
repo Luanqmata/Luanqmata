@@ -16,10 +16,7 @@
   <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
-</p>
-
+<hr>
 
 <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
@@ -105,6 +102,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=160&section=footer&text=Aprenda%20para%20evoluir,%20e%20hackeie%20para%20proteger.%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
 </p>
 
 <!-- 
