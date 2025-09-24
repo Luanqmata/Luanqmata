@@ -94,13 +94,13 @@
   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top)
+</p>
 
 </p>
 
 <p align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top)
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=160&section=footer&text=Aprenda%20para%20evoluir,%20e%20hackeie%20para%20proteger.%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
 </p>
 
