@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
 </p>
 
-<hr>
+
 <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
