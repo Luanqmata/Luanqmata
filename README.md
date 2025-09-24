@@ -106,10 +106,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
+  
 </p>
 
 <!-- 
