@@ -106,6 +106,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight" alt="GitHub Streak" />
+
 </p>
 
 <!-- 
@@ -113,11 +116,13 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanqmata&layout=compact&langs_count=8&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&count_private=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 </div>
 -->
