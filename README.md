@@ -99,6 +99,7 @@
 
 </p>
 
+<hr>  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
