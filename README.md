@@ -90,7 +90,7 @@
 
   <br>
   <a href="https://github.com/Luanqmata/-Windows-Is-Life-/tree/main/R-Dia-S-Win-v2">
-    <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/>
+  ⚠️  <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/> ⚠️
   </a>
   <br>
   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
