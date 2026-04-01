@@ -31,29 +31,29 @@
 
 <hr>
 
-  <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
-  <p align="center">
-    🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
-  
-    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-">
-      <img src="https://img.shields.io/badge/Certificado-Red%20Scan%20Academy-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
-    </a>
-  
-    <br>
-    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b1">
-      <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
-    </a>
-  
-    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b2">
-      <img src="https://img.shields.io/badge/Prova%20B2-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b2"/>
-    </a>
-  
-     <br>
-      <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/MetaSploiTable2">
-      <img src="https://img.shields.io/badge/METASPLOITABLE%202-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
-    </a>
-  
-  </p>
+<h3 align="center">🛡️ <strong>Pen Test</strong></h3>
+<p align="center">
+  🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
+
+  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-">
+    <img src="https://img.shields.io/badge/Certificado-Red%20Scan%20Academy-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
+  </a>
+
+  <br>
+  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b1">
+    <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
+  </a>
+
+  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b2">
+    <img src="https://img.shields.io/badge/Prova%20B2-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b2"/>
+  </a>
+
+   <br>
+    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/MetaSploiTable2">
+    <img src="https://img.shields.io/badge/METASPLOITABLE%202-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
+  </a>
+
+</p>
 
 <hr>
 <h3 align="center">⚙️ <strong>Arsenal de Scripts (Shell & PowerShell)</strong></h3>
