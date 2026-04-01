@@ -16,43 +16,44 @@
 </p>
 
 <hr>  
+  <h3 align="center">🚀 <strong>Golang</strong></h3>
+  <p align="center">
+    🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
+    <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
+      <img src="https://img.shields.io/badge/Desafio%20BTC%202k15-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
+    </a>
+    <br>
+    <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
+      <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
+    </a>
+  </p>
 
-<h3 align="center">🛡️ <strong>Pen Test</strong></h3>
-<p align="center">
-  🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
-
-  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-">
-    <img src="https://img.shields.io/badge/Certificado-Red%20Scan%20Academy-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
-  </a>
-
-  <br>
-  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b1">
-    <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
-  </a>
-
-  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b2">
-    <img src="https://img.shields.io/badge/Prova%20B2-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b2"/>
-  </a>
-
-   <br>
-    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/MetaSploiTable2">
-    <img src="https://img.shields.io/badge/METASPLOITABLE%202-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
-  </a>
-
-</p>
 
 <hr>
-<h3 align="center">🚀 <strong>Golang</strong></h3>
-<p align="center">
-  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
-  <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%202k15-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
-  </a>
-  <br>
-  <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
-  </a>
-</p>
+
+  <h3 align="center">🛡️ <strong>Pen Test</strong></h3>
+  <p align="center">
+    🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
+  
+    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-">
+      <img src="https://img.shields.io/badge/Certificado-Red%20Scan%20Academy-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
+    </a>
+  
+    <br>
+    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b1">
+      <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
+    </a>
+  
+    <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b2">
+      <img src="https://img.shields.io/badge/Prova%20B2-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b2"/>
+    </a>
+  
+     <br>
+      <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/MetaSploiTable2">
+      <img src="https://img.shields.io/badge/METASPLOITABLE%202-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
+    </a>
+  
+  </p>
 
 <hr>
 <h3 align="center">⚙️ <strong>Arsenal de Scripts (Shell & PowerShell)</strong></h3>
