@@ -54,6 +54,7 @@
   </a>
 </p>
 <hr>
+<!-- 
 <h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
 <p align="center">
   📦 - Banco de Dados - Segurança Ofensiva 💣 <br><br>
@@ -65,7 +66,8 @@
     <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
   </a> 
 </p>
-
+-->
+<!-- 
 <hr>
 <h3 align="center">🐧 <strong>Linux & windows 🧊 </strong> </h3>
 <p align="center">
@@ -79,6 +81,7 @@
     <img src="https://img.shields.io/badge/Linux%20Is%20Life-Shell-39ff14?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
   </a>
 </p>
+-->
 
 <hr>
 <h3 align="center">⚙️ <strong>Arsenal de Scripts (Shell & PowerShell)</strong></h3>
