@@ -53,35 +53,6 @@
     <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
   </a>
 </p>
-<!--
-<hr>
-<h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
-<p align="center">
-  📦 - Banco de Dados - Segurança Ofensiva 💣 <br><br>
-  <a href="https://github.com/Luanqmata/IESGO-Security-6Sem">
-    <img src="https://img.shields.io/badge/Segurança Ofensiva-IESGO%206°%20Sem-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Penetratium team"/>
-  </a>
-  <br> 
-  <a href="https://github.com/Luanqmata/Banco-Dados">
-    <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
-  </a> 
-</p>
--->
-<!-- 
-<hr>
-<h3 align="center">🐧 <strong>Linux & windows 🧊 </strong> </h3>
-<p align="center">
-  💻 Comandos, Automação e Instalação de SO.<br><br>
-   <strong>Nmap</strong> | ⚡ <strong>MF6</strong> | 💀 <strong>JohnTheRipper</strong> | 🐙 <strong>Exploit DB</strong> | 🚩 <strong>Burp Suite</strong> | 🔌 <strong>Netcat</strong><br><br>
-    <a href="https://github.com/Luanqmata/-Windows-Is-Life-">
-    <img src="https://img.shields.io/badge/Windows%20Is%20Life-Ps1-39ff14?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="win Is Life"/>
-  </a>
-  <br>  
-  <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
-    <img src="https://img.shields.io/badge/Linux%20Is%20Life-Shell-39ff14?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
-  </a>
-</p>
--->
 
 <hr>
 <h3 align="center">⚙️ <strong>Arsenal de Scripts (Shell & PowerShell)</strong></h3>
@@ -121,10 +92,38 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=160&section=footer&text=Aprenda%20para%20evoluir,%20e%20hackeie%20para%20proteger.%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
 </p>
-
-
+<!--
+<hr>
+<h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
+<p align="center">
+  📦 - Banco de Dados - Segurança Ofensiva 💣 <br><br>
+  <a href="https://github.com/Luanqmata/IESGO-Security-6Sem">
+    <img src="https://img.shields.io/badge/Segurança Ofensiva-IESGO%206°%20Sem-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Penetratium team"/>
+  </a>
+  <br> 
+  <a href="https://github.com/Luanqmata/Banco-Dados">
+    <img src="https://img.shields.io/badge/Banco%20de%20Dados-PostGreSQL-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Banco de Dados"/>
+  </a> 
+</p>
+-->
 <!-- 
+<hr>
+<h3 align="center">🐧 <strong>Linux & windows 🧊 </strong> </h3>
+<p align="center">
+  💻 Comandos, Automação e Instalação de SO.<br><br>
+   <strong>Nmap</strong> | ⚡ <strong>MF6</strong> | 💀 <strong>JohnTheRipper</strong> | 🐙 <strong>Exploit DB</strong> | 🚩 <strong>Burp Suite</strong> | 🔌 <strong>Netcat</strong><br><br>
+    <a href="https://github.com/Luanqmata/-Windows-Is-Life-">
+    <img src="https://img.shields.io/badge/Windows%20Is%20Life-Ps1-39ff14?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="win Is Life"/>
+  </a>
+  <br>  
+  <a href="https://github.com/Luanqmata/-Linux-Is-Life-">
+    <img src="https://img.shields.io/badge/Linux%20Is%20Life-Shell-39ff14?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Is Life"/>
+  </a>
+</p>
+-->
 
+<!--  indicadores de linguagens 
+  
 
 <div align="center">
 
