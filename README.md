@@ -20,11 +20,11 @@
   <p align="center">
     🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
     <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
-      <img src="https://img.shields.io/badge/Desafio%20BTC%202k15-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
+      <img src="https://img.shields.io/badge/Desafio%20BTC%202k15-CPU%20Miner-2ed573?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
     </a>
     <br>
     <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-      <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
+      <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-2ed573?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
     </a>
   </p>
 
@@ -36,21 +36,21 @@
   🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
 
   <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-">
-    <img src="https://img.shields.io/badge/Certificado-Red%20Scan%20Academy-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
+    <img src="https://img.shields.io/badge/Certificado-Red%20Scan%20Academy-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit"/>
   </a>
 
   <br>
   <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b1">
-    <img src="https://img.shields.io/badge/Prova%20B1-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
+    <img src="https://img.shields.io/badge/Prova%20B1-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
   </a>
 
   <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b2">
-    <img src="https://img.shields.io/badge/Prova%20B2-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b2"/>
+    <img src="https://img.shields.io/badge/Prova%20B2-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b2"/>
   </a>
 
    <br>
     <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/MetaSploiTable2">
-    <img src="https://img.shields.io/badge/METASPLOITABLE%202-39ff14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
+    <img src="https://img.shields.io/badge/METASPLOITABLE%202-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Red Team Exploit b1"/>
   </a>
 
 </p>
@@ -60,21 +60,21 @@
 <p align="center">
   🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
    <a href="https://github.com/Luanqmata/PowersDiNSpector">
-    <img src="https://img.shields.io/badge/🔍%20PowersDiNSpector-PowerShell-39ff14?style=for-the-badge&logo=search&logoColor=white" alt="PowersDiNSpector"/>
+    <img src="https://img.shields.io/badge/🔍%20PowersDiNSpector-PowerShell-2ed573?style=for-the-badge&logo=search&logoColor=white" alt="PowersDiNSpector"/>
   </a>
 
   <br>
   <a href="https://github.com/Luanqmata/-Windows-Is-Life-/tree/main/R-Dia-S-Win-v2">
-  ⚠️  <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-39ff14?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/> ⚠️
+  ⚠️  <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-2ed573?style=for-the-badge&logo=gnu&logoColor=white" alt="R-Dia-S-Win-v2"/> ⚠️
   </a>
   <br>
   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
-    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-39ff14?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
+    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-2ed573?style=for-the-badge&logo=apache&logoColor=white" alt="Visão Apache"/>
   </a>
 
 </p>
 
-<hr>  
+<hr>
 
 <div align="center">
   <br>
