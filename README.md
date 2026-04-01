@@ -93,7 +93,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=160&section=footer&text=Aprenda%20para%20evoluir,%20e%20hackeie%20para%20proteger.%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=160&section=footer&text=A%20ignor%C3%A2ncia%20%C3%A9%20confort%C3%A1vel.%20O%20conhecimento%20%C3%A9%20perigoso.&fontSize=25&fontColor=000000" alt="banner rodapé"/>
 </p>
 
 
