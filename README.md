@@ -53,8 +53,8 @@
     <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-39ff14?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
   </a>
 </p>
+<!--
 <hr>
-<!-- 
 <h3 align="center">🗄️ <strong>Faculades - IESGO</strong></h3>
 <p align="center">
   📦 - Banco de Dados - Segurança Ofensiva 💣 <br><br>
