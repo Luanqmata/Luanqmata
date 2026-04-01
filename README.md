@@ -1,107 +1,99 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=000000"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2ed573&size=25&center=true&vCenter=true&width=600&lines=Segurança+Ofensiva;Pentest+%7C+Automação;Scripts+%7C+Blockchain+Research;Always+learning..." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=200&section=header&text=Seja%20Bem-Vindo!%20%F0%9F%91%8B&fontSize=40&fontColor=000000" alt="banner hacker green"/>
 </p>
 
 <p align="center">
   <a href="https://www.gnu.org/"><img src="https://img.shields.io/badge/Linux-Terminal-2ed573?style=for-the-badge&logo=linux&logoColor=white" /></a>
   <a href="https://golang.org/"><img src="https://img.shields.io/badge/Golang-Mining-2ed573?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-DataBase-2ed573?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/PostGSQL-DataBase-2ed573?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-CTF-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
----
-
-<h3 align="center">💻 Sobre</h3>
-
+<h3 align="center" style="margin-top: 20px;">💻 <strong>Sobre:</strong></h3>
 <p align="center">
-Focado em <strong>Segurança Ofensiva</strong>, <strong>Automação</strong> e <strong>Engenharia de Scripts</strong>.<br>
-Atuação com <strong>Pentest</strong>, análise de sistemas e desafios de criptografia.
+  <strong>Banco de dados, Segurança, Automação e Desafios Hacker.</strong><br>
+  <strong>Lógica, Scripts Pentest, Brute Force Bitcoin e Conteúdos da faculdade.</strong>
 </p>
 
----
-
-<h3 align="center">📊 Estatísticas</h3>
-
+<hr>  
+<h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Luanqmata&show_icons=true&theme=dark&title_color=2ed573&icon_color=2ed573&text_color=ffffff&bg_color=0d1117"/>
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanqmata&layout=compact&theme=dark&title_color=2ed573&text_color=ffffff&bg_color=0d1117"/>
+  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
+  <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%202k15-CPU%20Miner-2ed573?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
+  </a>
+  <br>
+  <a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
+    <img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-2ed573?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 163"/>
+  </a>
 </p>
 
----
+<hr>
 
-<h3 align="center">🚀 Golang</h3>
-
+<h3 align="center">🛡️ <strong>Pen Test</strong></h3>
 <p align="center">
-🔐 Desafios com CPU MINER: <i>Brute Force</i> & Bitcoin<br><br>
+  🔍 Enumeração | 🕵️‍♂️ Serviços | 💣 Exploits | 📟 Shell | 🌎 OSINT.<br><br>
 
-<a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
-<img src="https://img.shields.io/badge/Desafio%20BTC%202k15-CPU%20Miner-2ed573?style=for-the-badge&logo=bitcoin"/>
-</a>
+  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-">
+    <img src="https://img.shields.io/badge/Certificado-Red%20Scan%20Academy-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 
-<br>
+  <br>
+  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b1">
+    <img src="https://img.shields.io/badge/Prova%20B1-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Luanqmata/Desafio_163_0.0.7v">
-<img src="https://img.shields.io/badge/Desafio%20BTC%20163-CPU%20Miner-2ed573?style=for-the-badge&logo=bitcoin"/>
-</a>
+  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/b2">
+    <img src="https://img.shields.io/badge/Prova%20B2-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 
-</p>
-
----
-
-<h3 align="center">🛡️ Pen Test</h3>
-
-<p align="center">
-🔍 Enumeração | 💣 Exploits | 📟 Shell | 🌎 OSINT<br><br>
-
-<a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-">
-<img src="https://img.shields.io/badge/Red%20Scan%20Academy-2ed573?style=for-the-badge&logo=tryhackme"/>
-</a>
-
-<br>
-
-<img src="https://img.shields.io/badge/Prova%20B1-2ed573?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prova%20B2-2ed573?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploitable%202-2ed573?style=for-the-badge"/>
+  <br>
+  <a href="https://github.com/Luanqmata/-R3d_Sc4n_Ac4d3my-/tree/main/Anotações/MetaSploiTable2">
+    <img src="https://img.shields.io/badge/METASPLOITABLE%202-2ed573?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 
 </p>
 
----
+<hr>
 
-<h3 align="center">⚙️ Scripts</h3>
-
+<h3 align="center">⚙️ <strong>Arsenal de Scripts (Shell & PowerShell)</strong></h3>
 <p align="center">
-Shell | PowerShell | Automação<br><br>
+  🗲 Enumeração | DNS | Analise de logs & Rede.<br><br>
 
-<a href="https://github.com/Luanqmata/PowersDiNSpector">
-<img src="https://img.shields.io/badge/PowersDiNSpector-2ed573?style=for-the-badge"/>
-</a>
+  <a href="https://github.com/Luanqmata/PowersDiNSpector">
+    <img src="https://img.shields.io/badge/🔍%20PowersDiNSpector-PowerShell-2ed573?style=for-the-badge&logo=search&logoColor=white"/>
+  </a>
 
-<br>
+  <br>
+  <a href="https://github.com/Luanqmata/-Windows-Is-Life-/tree/main/R-Dia-S-Win-v2">
+    ⚠️ <img src="https://img.shields.io/badge/R--Dia--S--Win--v2-PowerShell-2ed573?style=for-the-badge&logo=gnu&logoColor=white"/> ⚠️
+  </a>
 
-<img src="https://img.shields.io/badge/R--Dia--S--Win--v2-2ed573?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Visão%20Apache-2ed573?style=for-the-badge"/>
+  <br>
+  <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
+    <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-2ed573?style=for-the-badge&logo=apache&logoColor=white"/>
+  </a>
 
 </p>
 
----
+<hr>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <br>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="37" height="37"/>
 </div>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=150&section=footer&text=Hack%20to%20Protect%20%F0%9F%A7%A0&fontSize=25&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=160&section=footer&text=Aprenda%20para%20evoluir,%20e%20hackeie%20para%20proteger.%20%F0%9F%A7%A0&fontSize=25&fontColor=000000" alt="banner rodapé"/>
 </p>
 
 
