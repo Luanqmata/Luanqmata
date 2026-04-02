@@ -18,7 +18,7 @@
 <hr>  
 <h3 align="center">🚀 <strong>Golang</strong></h3>
 <p align="center">
-  🔐 Desafios com CPU MINER: <i>Brute Force</i> & <strong>Desafio Bitcoin</strong>.<br><br>
+  🔐 Desafios com PUZZLE BTC: <i>Brute Force</i> | <strong>Desafio Bitcoin</strong>.<br><br>
   <a href="https://github.com/Luanqmata/Puzzle_bitcoin_2k15">
     <img src="https://img.shields.io/badge/Desafio%20BTC%202k15-CPU%20Miner-2ed573?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Desafio BTC 2015"/>
   </a>
