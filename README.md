@@ -93,6 +93,10 @@
 </div>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=160&section=footer&text=%F0%9F%A7%A0%20A%20ignor%C3%A2ncia%20%C3%A9%20confort%C3%A1vel;%20O%20conhecimento%20%C3%A9%20perigoso.%20%E2%9A%A0%EF%B8%8F&fontSize=25&fontColor=000000" alt="banner rodapé"/>
 </p>
 
@@ -163,8 +167,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanqmata&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+
 </div>
 -->
