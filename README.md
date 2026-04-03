@@ -93,7 +93,7 @@
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Luanqmata&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/luancalazans.png" alt="TryHackme" />
 </p>
 
 <p align="center">
