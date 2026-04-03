@@ -73,7 +73,11 @@
   <a href="https://github.com/Luanqmata/Visao_Apache_0.3.5v">
     <img src="https://img.shields.io/badge/Visão%20Apache-Shell%20Bin-2ed573?style=for-the-badge&logo=apache&logoColor=white"/>
   </a>
-
+  
+  <a href="https://github.com/Luanqmata/ObfuscatorPS">
+    <img src="https://img.shields.io/badge/🕶️%20ObfuscatorPS-PowerShell-2ed573?style=for-the-badge&logo=powershell&logoColor=white"/>
+  </a>
+  
 </p>
 
 <hr>
