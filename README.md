@@ -92,7 +92,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="37" height="37"/>
 </div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/luancalazans.png" />
+<img src="https://img.shields.io/badge/TryHackMe-Em%20Progresso-2ed573?style=for-the-badge&logo=tryhackme" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=160&section=footer&text=%F0%9F%A7%A0%20A%20ignor%C3%A2ncia%20%C3%A9%20confort%C3%A1vel;%20O%20conhecimento%20%C3%A9%20perigoso.%20%E2%9A%A0%EF%B8%8F&fontSize=25&fontColor=000000" alt="banner rodapé"/>
