@@ -83,17 +83,19 @@
 
 <hr>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="37" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="37" height="37"/>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="37"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="37"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ed573&height=160&section=footer&text=%F0%9F%A7%A0%20A%20ignor%C3%A2ncia%20%C3%A9%20confort%C3%A1vel;%20O%20conhecimento%20%C3%A9%20perigoso.%20%E2%9A%A0%EF%B8%8F&fontSize=25&fontColor=000000" alt="banner rodapé"/>
